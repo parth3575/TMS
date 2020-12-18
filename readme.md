@@ -1,3 +1,10 @@
+# Training Management System
+
+* Training Management System is a system/module to verify that whether a student is eligible for Placement Process or not. 
+* It is a part of Training and Placement Management System.
+* In this, Students must give tests of different programming languages according to their choice and if they score above the required minimum score then they will be considered eligible for Placement Activities.
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
